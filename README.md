@@ -23,7 +23,7 @@ This project extends my cybersecurity lab by adding a **Windows 10 virtual
 machine** to the same NAT Network already running my Kali Linux attacker machine.
 
 The goal was to create a multi-machine environment where Kali and Windows 10 
-can communicate with each other — giving me a realistic target to practise 
+can communicate with each other, giving me a realistic target to practise 
 against in future penetration testing exercises.
 
 ---
@@ -69,7 +69,7 @@ Selected 64-bit ISO format for VirtualBox compatibility.
 
 **Tip:** If Microsoft shows the Media Creation Tool instead of a direct 
 ISO link, open the page in Chrome, press F12, enable responsive/mobile 
-view, refresh — and a direct ISO download option should appear.
+view, refresh, and a direct ISO download option should appear.
 
 ---
 
@@ -188,7 +188,7 @@ response times.
 ### 1. Local vs Microsoft Account During Windows Setup
 Windows 10 pushes you hard toward a Microsoft account during 
 installation. Disconnecting the network adapter is a clean 
-workaround that forces a local account option — useful to 
+workaround that forces a local account option, useful to 
 know for any lab environment where you don't want personal 
 credentials involved.
 
