@@ -194,14 +194,14 @@ credentials involved.
 
 ### 2. Windows Firewall Behaviour in a Lab
 By default, Windows silently drops ICMP ping requests from 
-external machines. This doesn't mean the network is broken 
-— it means the firewall is doing its job. In a lab context, 
+external machines. This doesn't mean the network is broken, 
+it means the firewall is doing its job. In a lab context, 
 knowing the difference between a network issue and a 
 firewall issue is an important diagnostic skill.
 
 ### 3. Multi-Machine Lab Networking
-Getting two different operating systems — Kali Linux and 
-Windows 10 — talking to each other on the same virtual 
+Getting two different operating systems, Kali Linux and 
+Windows 10, talking to each other on the same virtual 
 network is a significant step. This is the foundation 
 for all future penetration testing exercises.
 
